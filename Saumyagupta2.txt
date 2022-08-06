@@ -1,0 +1,9 @@
+EmpId   EmpName   DOB    EmailId
+
+00101    Saumya   2000   saumyagupta.dbit@gmail.com
+
+00102    Shubham  2001   subham123@gmail.com
+
+00103    Subrat   2002   subrat123@gmail.com
+
+00104    seema    2003   seemagupta123@gmail.com         
